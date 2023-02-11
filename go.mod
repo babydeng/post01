@@ -1,4 +1,4 @@
-module postTest
+module post01
 
 go 1.19
 
