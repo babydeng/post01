@@ -1,4 +1,4 @@
-package postTest
+package post01
 
 import (
 	"database/sql"
